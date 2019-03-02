@@ -1,4 +1,4 @@
-李金鹏 软件九班 8号
+#李金鹏 软件九班 8号
 import pandas as pd
 from math import sqrt
 def load_data(file):
